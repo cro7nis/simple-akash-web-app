@@ -8,6 +8,10 @@ The project is developed for the **Create a web-app & deploy it on Akash** zealy
 
 
 
+https://github.com/user-attachments/assets/820d2138-aec9-4f94-ac25-ef7223833695
+
+
+
 - Create and fund a Keplr or Leap wallet
   - [Keplr wallet](https://akash.network/docs/getting-started/token-and-wallets/#keplr-wallet)
   - [Leap wallet](https://akash.network/docs/getting-started/token-and-wallets/#leap-cosmos-wallet)
